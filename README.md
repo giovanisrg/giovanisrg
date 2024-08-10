@@ -17,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanisrg&show_icons=true&locale=en&layout=compact" alt="giovanisrg" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=giovanisrg&show_icons=true&locale=en" alt="giovanisrg" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=giovanisrg&show_icons=true&locale=en" alt="giovanisrg" /></p>
